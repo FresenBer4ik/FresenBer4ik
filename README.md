@@ -29,9 +29,5 @@
 🎯 Мои цели: Создавать чистый, функциональный код, работать над проектами и постоянно учиться!
 
 💬 Задайте мне вопросы или поделитесь советами — я всё время открыт для общения!
-
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=FresenBer4ik&hide=["issues"]&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FresenBer4ik&hide_progress=true)
   
   [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.donationalerts.com/r/edvardoyt)
